@@ -73,3 +73,26 @@ across all registered accounts.
 2. Select the R5RS language.
 3. Run the file.
 4. Follow the prompts in the console.
+
+# Assembly Programming Exercises
+
+These programs were completed as part of the Computer Information Systems program at Okanagan College.
+
+They demonstrate fundamental assembly programming concepts, including arithmetic operations, recursion, sorting algorithms, and mathematical computations.
+
+## Programs
+
+### factorial_iterative.m
+Calculates the factorial of a number using an iterative approach.
+
+### factorial_recursive.m
+Calculates the factorial of a number using recursion.
+
+### shellsort.m
+Implements the Shell Sort algorithm to sort a list of values.
+
+### binomial.m
+Computes binomial coefficients using assembly language.
+
+### easter.m
+Calculates the date of Easter using a mathematical algorithm.
